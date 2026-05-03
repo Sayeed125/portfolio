@@ -374,6 +374,7 @@ body.dark-mode .navbar {
 
 .hero-description {
     font-size: 1.1rem;
+    text-align: justify;
     color: var(--text-light);
     margin-bottom: 2rem;
     line-height: 1.8;
